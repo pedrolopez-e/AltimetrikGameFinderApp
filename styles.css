@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: solid 1px;
+    margin: 0;
+    height: 115px;
+}
+
+h1 {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.title-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 39px;
+    margin-top: 30px;
+    margin-bottom: 19px;
+    width: 322px;
+    height: 66px;
+}
+
+.title {
+    padding-top: 14.27px;
+    padding-bottom: 14.27px;
+    padding-left: 14.23px;
+    padding-right: 14.23px;
+    display: flex;
+    align-content: center;
+}
+
+
+
+.game {
+    font-weight: lighter;
+}
+
