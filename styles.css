@@ -36,9 +36,12 @@ h1 {
     align-content: center;
 }
 
-
-
 .game {
     font-weight: lighter;
+}
+
+.form-container {
+    height: 702px;
+    width: 462px;
 }
 
