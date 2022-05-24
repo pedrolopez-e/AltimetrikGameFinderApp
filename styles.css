@@ -41,7 +41,11 @@ h1 {
 }
 
 .form-container {
+    position: absolute;
+    left: 932px;
+    top: 178px; 
     height: 702px;
     width: 462px;
+    border: solid 1px;
 }
 
