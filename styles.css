@@ -46,6 +46,7 @@ h1 {
     top: 178px; 
     height: 702px;
     width: 462px;
-    border: solid 1px;
+    border-radius: 12px;
+    background-color: #f0f0f0;
 }
 
