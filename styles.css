@@ -50,9 +50,31 @@ form {
     width: 462px;
     border-radius: 12px;
     background-color: #f0f0f0;
+    font-family: Exo;
 }
 
-.message {
+.form-item {
     text-align: center;
 }
 
+.remember-me-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.register-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1.19px;
+}
+
+.divider {
+    display: flex;
+    flex-direction: row;
+}
+
+hr {
+    width: 147.44px;
+}
