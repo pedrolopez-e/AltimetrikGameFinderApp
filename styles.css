@@ -1,3 +1,9 @@
+:root {
+    --mint: #5FE19B;
+    --jade: #36B972;
+    --darkGreen: #067B3C; 
+}
+
 body {
     margin: 0;
 }
